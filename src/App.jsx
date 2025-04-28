@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import PostsPage from './PostsPage';
+import PostsPage from './components/PostsPage';
 import './App.css'
 
 function App() {
